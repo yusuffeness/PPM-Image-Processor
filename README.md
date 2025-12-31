@@ -1,4 +1,22 @@
-Name: Yusuf Enes Kütük
+<img width="263" height="527" alt="image" src="https://github.com/user-attachments/assets/29b9f9ad-4c12-4296-bf6d-d6b008971608" />Name: Yusuf Enes Kütük
+# PPM Image Processor
+
+This project is a Java-based image processing application developed for academic purposes.
+It operates on PPM (P3 format) images and implements image compression and edge detection
+using a quadtree-based approach.
+
+The compression module recursively divides the image into regions and represents them
+using a quadtree structure. Different compression levels are achieved by automatically
+optimizing a threshold value through binary search.
+
+The edge detection module highlights image edges by analyzing quadtree leaf nodes.
+Small regions are processed to preserve details, while larger regions are suppressed
+to improve edge visibility.
+
+The project is designed as a command-line application and focuses on understanding
+core concepts of image processing, recursion, and tree-based data structures.
+
+
 
 COMPILATION
 -------------------------------------------------------
