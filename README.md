@@ -1,4 +1,4 @@
-<img width="263" height="527" alt="image" src="https://github.com/user-attachments/assets/29b9f9ad-4c12-4296-bf6d-d6b008971608" />Name: Yusuf Enes Kütük
+Name: Yusuf Enes Kütük
 # PPM Image Processor
 
 This project is a Java-based image processing application developed for academic purposes.
@@ -15,6 +15,9 @@ to improve edge visibility.
 
 The project is designed as a command-line application and focuses on understanding
 core concepts of image processing, recursion, and tree-based data structures.
+
+
+   <img width="263" height="527" alt="image" src="https://github.com/user-attachments/assets/29b9f9ad-4c12-4296-bf6d-d6b008971608" />
 
 
 
