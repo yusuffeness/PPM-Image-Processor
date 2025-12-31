@@ -16,8 +16,13 @@ to improve edge visibility.
 The project is designed as a command-line application and focuses on understanding
 core concepts of image processing, recursion, and tree-based data structures.
 
-
+# Sample Compression Mode
    <img width="263" height="527" alt="image" src="https://github.com/user-attachments/assets/29b9f9ad-4c12-4296-bf6d-d6b008971608" />
+
+# Sample Edge Detection Mode
+
+   <img width="436" height="144" alt="image" src="https://github.com/user-attachments/assets/13236e0f-0e8c-4f77-b465-cc00cc9ded3c" />
+
 
 
 
